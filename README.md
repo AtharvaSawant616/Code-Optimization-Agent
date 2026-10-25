@@ -19,4 +19,3 @@ Setup and usage:
 
 Future plans:
 - Add a feature to accept coding of other languages
-- 
