@@ -19,3 +19,4 @@ Setup and usage:
 
 Future plans:
 - Add a feature to accept coding of other languages
+- Report that shows code maintainability and complexity before and after optimization.
